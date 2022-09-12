@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rubenqba
 - 👀 I’m interested in Java, Containers, Blockchain, and stocks
-- 💞️ I’m looking to collaborate on awesome projects
+- 💞️ I’m always looking to collaborate on awesome projects
 - 📫 reach on Twitter @rubenqba
 
 <!---
