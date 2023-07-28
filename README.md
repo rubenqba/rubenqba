@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rubenqba
-- 👀 I’m interested in Java, Containers, Blockchain, and stocks
+- 👀 I’m interested in React, Java, Containers, Blockchain, and stocks
 - 💞️ I’m always looking to collaborate on awesome projects
 - 📫 reach on Twitter @rubenqba
 
